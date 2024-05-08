@@ -10,7 +10,7 @@ Implicit usage means you're using any Next.js functionality and everything "just
 
 ## Deploying to Netlify
 
-This site requires [Netlify Next Runtime v5](https://docs.netlify.com/frameworks/next-js/overview/) for full functionality. That version is now being gradually rolled out to all Netlify accounts. 
+This site requires [Netlify Next Runtime v5](https://docs.netlify.com/frameworks/next-js/overview/) for full funhctionality. That version is now being gradually rolled out to all Netlify accounts. 
 
 After deploying via the button below, please visit the **Site Overview** page for your new site to check whether it is already using the v5 runtime. If not, you'll be prompted to opt-in to to v5.
 
